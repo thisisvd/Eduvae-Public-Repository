@@ -44,7 +44,7 @@ The project repository is private due to some policy reasons. Project applicatio
 
 ## License
 
-[MIT License](https://github.com/thisisvd/Eduvae-Public-Repository/blob/master/LICENSE)
+[Apache 2.0 License](https://github.com/thisisvd/Eduvae-Public-Repository/blob/master/LICENSE)
 
 ## Copyright
 
