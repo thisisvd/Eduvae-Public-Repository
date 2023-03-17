@@ -1,0 +1,51 @@
+# Eduvae Plus Education App 
+
+## Introduction
+We started the planning of the project when we experienced the problems and also the problems faced by the students of our college because students had to visit different websites in search of learning materials like previous year's question papers, syllabus, exam timetable, etc. This process of visiting different websites is time-consuming and there is a waste of the precious time of students. Therefore we decided to develop an application that will serve as a one-stop destination for all the student’s study needs.
+
+## Objective
+We aim to create a mobile application app that provides educational services to students through their mobile devices, using the Android OS platform. While using this application students can take advantage of various facilities in a single app e students can see their syllabus, and notes, discuss their doubts, get previous year's question papers as well as attempt quizzes to improve their knowledge. Along with this, there will be a facility to upload notes to help other students.
+
+Several classrooms are created and managed by admins for particular subject studies with assignment submission facilities and submission leaderboards. Video-Recommender is our new feature added currently which shows videos according to the course opted for by users. Discussion forum to discuss & share problems and solutions faced by other people and users.
+
+## Acknowledgements
+
+- [Project](https://drive.google.com/drive/folders/1R08u6jFJuheVjw_LTWpfx01t-ujEYw05)
+- [Application](https://drive.google.com/file/d/1t_zYYCGf_8-4q_nprhGlYmusnqBiNGYN/view?usp=share_link)
+- [Project Screenshots](https://drive.google.com/drive/folders/1f7jg--98C5vtm6z1yfbfMTcrPfb7Xyjx?usp=share_link)
+ 
+## Screenshots
+  
+## Main Tech Stack
+
+**Client:** Kotlin, SQLite(Room), Android Studio, Firebase
+
+**API's / Cloud:** 
+
+Firebase Firestore, Authentication & Storage
+
+Youtube Data API (for videos-recommender)
+
+## Other Dependencies and all
+
+MVVM (Model-View-View-Model)
+
+ROOM Database
+
+Retrofit 
+
+Navigation 
+
+Glide
+
+## Project Private Policy
+
+The project repository is private due to some policy reasons. Project application, screenshots, reports, and ppt can be viewed by the above project link.
+
+## License
+
+[MIT License](https://github.com/thisisvd/Eduvae-Public-Repository/blob/main/LICENSE)
+
+## Copyright
+
+© 2023 Education App. All rights reserved.
