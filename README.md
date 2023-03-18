@@ -14,13 +14,35 @@ Several classrooms are created and managed by admins for particular subject stud
 - [Application](https://drive.google.com/file/d/1t_zYYCGf_8-4q_nprhGlYmusnqBiNGYN/view?usp=share_link)
 - [Project Screenshots](https://drive.google.com/drive/folders/1f7jg--98C5vtm6z1yfbfMTcrPfb7Xyjx?usp=share_link)
  
-## Screenshots
-  
+## Some Screenshots
+<p float="left">
+<img src="Eduvae%20%2B/Screenshots/screenshot_1.png" width="150">
+<img src="Eduvae%20%2B/Screenshots/screenshot_2.png" width="150">
+<img src="Eduvae%20%2B/Screenshots/screenshot_3.png" width="150">
+<img src="Eduvae%20%2B/Screenshots/screenshot_4.png" width="150">
+<img src="Eduvae%20%2B/Screenshots/screenshot_5.png" width="150">
+<img src="Eduvae%20%2B/Screenshots/screenshot_6.png" width="150">
+</p>
+
+## Diagrams
+
+Use Case Diagram
+
+<img src="Eduvae%20%2B/Diagrams/Use%20Case%20Diagram.png" width="666">
+
+DFD Diagram
+
+<img src="Eduvae%20%2B/Diagrams/DFD%20Diagram.png" width="666">
+
+Sequence Diagram
+
+<img src="Eduvae%20%2B/Diagrams/Sequence%20Diagram.png" width="666">
+
 ## Main Tech Stack
 
-**Client:** Kotlin, SQLite(Room), Android Studio, Firebase
+**Client :** Kotlin, SQLite(Room), Android Studio, Firebase
 
-**API's / Cloud:** 
+**API's / Cloud :** 
 
 Firebase Firestore, Authentication & Storage
 
@@ -40,7 +62,7 @@ Glide
 
 ## Project Private Policy
 
-The project repository is private due to some policy reasons. Project application, screenshots, reports, and ppt can be viewed by the above project link.
+The main project repository is private due to some policy reasons. Project application, screenshots, reports, and ppt can be viewed by clicking the [project link](https://drive.google.com/drive/folders/1R08u6jFJuheVjw_LTWpfx01t-ujEYw05).
 
 ## License
 
