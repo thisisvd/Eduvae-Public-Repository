@@ -69,4 +69,4 @@ The main project repository is private due to some policy reasons. Project appli
 
 ## Copyright
 
-© 2023 Education App. All rights reserved.
+© 2023 Eduvae Plus Education App. All rights reserved.
