@@ -21,7 +21,6 @@ Several classrooms are created and managed by admins for particular subject stud
 <img src="Eduvae%20%2B/Screenshots/screenshot_3.png" width="150">
 <img src="Eduvae%20%2B/Screenshots/screenshot_4.png" width="150">
 <img src="Eduvae%20%2B/Screenshots/screenshot_5.png" width="150">
-<img src="Eduvae%20%2B/Screenshots/screenshot_6.png" width="150">
 </p>
 
 ## Diagrams
