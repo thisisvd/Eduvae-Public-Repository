@@ -59,7 +59,7 @@ Navigation
 
 Glide
 
-## Project Private Policy
+## Project Privacy Policy
 
 The main project repository is private due to some policy reasons. Project application, screenshots, reports, and ppt can be viewed by clicking the [project link](https://drive.google.com/drive/folders/1R08u6jFJuheVjw_LTWpfx01t-ujEYw05).
 
