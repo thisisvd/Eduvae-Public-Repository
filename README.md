@@ -1,5 +1,7 @@
 # Eduvae Plus Education App 
 
+<img src="Eduvae%20%2B/Screenshots/eduvae_icon.png" width="300">
+
 ## Introduction
 We started the planning of the project when we experienced the problems and also the problems faced by the students of our college because students had to visit different websites in search of learning materials like previous year's question papers, syllabus, exam timetable, etc. This process of visiting different websites is time-consuming and there is a waste of the precious time of students. Therefore we decided to develop an application that will serve as a one-stop destination for all the student’s study needs.
 
