@@ -61,9 +61,11 @@ Navigation
 
 Glide
 
-## Project Privacy Policy
+## Project Repository
 
-The main project repository is private due to some policy reasons. Project application, screenshots, reports, and ppt can be viewed by clicking the [project link](https://drive.google.com/drive/folders/1R08u6jFJuheVjw_LTWpfx01t-ujEYw05).
+UI/UX and theme are completely dedicated to Digital Inclined Inc and the project package name belongs to the same organization because starting of the project is during the internship in the organization. [Click here for project repo!](https://github.com/thisisvd/Eduvae-plus)
+
+Project application, screenshots, reports, and ppt can be viewed by clicking the [project link](https://drive.google.com/drive/folders/1R08u6jFJuheVjw_LTWpfx01t-ujEYw05).
 
 ## License
 
